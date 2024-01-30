@@ -16,8 +16,8 @@ Deseja conhecer mais sobre minha jornada? Explore meu site pessoal e sinta-se à
 
 
 
-[![Pedrofreitasgoat GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=Pedrofreitasgoat&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/Pedrofreitasgoat/github-readme-stats#gh-dark-mode-only)
-[![Pedrofreitasgoat](https://github-readme-stats.vercel.app/api/top-langs/?username=Pedrofreitasgoat&hide=html&layout=compact&theme=dark)](https://github.com/Pedrofreitasgoat/github-readme-stats)
+[![Pedrofreitasgoat GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=PedroFreitasgoat&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/PedroFreitasgoat/github-readme-stats#gh-dark-mode-only)
+[![Pedrofreitasgoat](https://github-readme-stats.vercel.app/api/top-langs/?username=PedroFreitasgoat&hide=html&layout=compact&theme=dark)](https://github.com/PedroFreitasgoat/github-readme-stats)
 
 
   <div style="display: inline_block"><br>

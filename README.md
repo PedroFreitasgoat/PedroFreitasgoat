@@ -8,8 +8,7 @@
 <div align="initial">  
   <p>
   
-Atuando diariamente no desenvolvimento web e de jogos, mergulho em uma rotina disciplinada de estudos, direcionada ao meu aprimoramento profissional. Além disso, minha trajetória abrange expertise em usabilidade e design de maneira abrangente 
-Deseja conhecer mais sobre minha jornada? Explore meu site pessoal e sinta-se à vontade para entrar em contato 🚀 </p>
+Atuando diariamente no desenvolvimento web e de jogos, mergulho em uma rotina disciplinada de estudos voltada para o aprimoramento constante do meu perfil profissional, tanto no âmbito do desenvolvimento web quanto no design, utilizando ferramentas como o Figma. Busco ativamente minha primeira oportunidade na área, e para isso mantenho uma rotina totalmente focada nos estudos, buscando absorver conhecimentos e habilidades que possam contribuir de forma significativa em minha futura atuação profissional. Ao longo da minha jornada, adquiri uma expertise sólida em usabilidade e design, buscando sempre a excelência em cada projeto em que me envolvo. Para saber mais sobre minha trajetória e experiência, convido-o(a) a explorar meu site pessoal. Estou à disposição para novas oportunidades e desafios que possam contribuir para o meu crescimento e para o sucesso dos projetos em que me envolvo. 🚀 </p>
 
   </div>
 

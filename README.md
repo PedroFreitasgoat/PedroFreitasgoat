@@ -7,8 +7,9 @@
   
 <div align="initial">  
   <p>
-  
-Atuando diariamente no desenvolvimento web e de jogos, mergulho em uma rotina disciplinada de estudos voltada para o aprimoramento constante do meu perfil profissional, tanto no âmbito do desenvolvimento web quanto no design, utilizando ferramentas como o Figma. Busco ativamente minha primeira oportunidade na área, e para isso mantenho uma rotina totalmente focada nos estudos, buscando absorver conhecimentos e habilidades que possam contribuir de forma significativa em minha futura atuação profissional. Ao longo da minha jornada, adquiri uma expertise sólida em usabilidade e design, buscando sempre a excelência em cada projeto em que me envolvo. Para saber mais sobre minha trajetória e experiência, convido-o(a) a explorar meu site pessoal. Estou à disposição para novas oportunidades e desafios que possam contribuir para o meu crescimento e para o sucesso dos projetos em que me envolvo🚀 </p>
+Ativamente engajado no desenvolvimento web e de jogos, dedico-me diariamente a uma rotina disciplinada de estudos, focada no contínuo aprimoramento do meu perfil profissional. Tenho especial interesse tanto no desenvolvimento web quanto no design, e utilizo ferramentas como o Figma para aprimorar minhas habilidades. Estou em busca da minha primeira oportunidade nesta área e mantenho uma dedicação total aos estudos, buscando absorver conhecimento e habilidades que possam contribuir significativamente para o meu desenvolvimento profissional futuro.
+
+Ao longo da minha jornada, desenvolvi uma sólida expertise em usabilidade e design, sempre buscando a excelência em cada projeto que me envolvo. Para saber mais sobre minha trajetória e experiência, convido você a explorar meu site pessoal. Estou aberto a novas oportunidades e desafios que possam impulsionar meu crescimento e contribuir para o sucesso dos projetos em que estou envolvido. Vamos juntos em direção ao sucesso! 🚀 </p>
 
   </div>
 

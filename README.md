@@ -21,15 +21,11 @@ Tecnologias que utilizo com frequência:
 
 ReactJS / Next.js / TypeScript
 
-TailwindCSS / Styled-Components / ChakraUI
+TailwindCSS / Styled-Components / 
 
 Jotai / Context API / Zustand
 
-Contentful / Sanity.io / Prismic / Hygraph (GraphCMS)
-
 CSS Modules / SASS / PostCSS
-
-Jest / React Testing Library / Cypress
 
 Git / GitHub / Vite / Webpack
 </p>

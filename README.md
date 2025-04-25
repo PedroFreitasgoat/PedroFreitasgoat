@@ -13,6 +13,7 @@ Construo aplicações web rápidas, acessíveis e escaláveis, com atenção tot
 Tenho compromisso com o aprendizado contínuo e curto transformar problemas complexos em soluções eficientes e elegantes. Seja começando do zero ou otimizando sistemas existentes, meu objetivo é sempre entregar código de impacto, que une valor para o usuário e para o negócio.
 
 Estou sempre aberto a colaborar com times que valorizam tecnologia, escrever código de qualidade e construir projetos que realmente façam a diferença.
+
 📩 Bora construir algo grande juntos.
 
 

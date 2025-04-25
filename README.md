@@ -7,9 +7,14 @@
   
 <div align="initial">  
   <p>
-Ativamente engajado no desenvolvimento web e de jogos, dedico-me diariamente a uma rotina disciplinada de estudos, focada no contínuo aprimoramento do meu perfil profissional. Tenho especial interesse tanto no desenvolvimento web quanto no design, e utilizo ferramentas como o Figma para aprimorar minhas habilidades. Estou em busca da minha primeira oportunidade nesta área e mantenho uma dedicação total aos estudos, buscando absorver conhecimento e habilidades que possam contribuir significativamente para o meu desenvolvimento profissional futuro.
+Olá, sou o Pedro — Desenvolvedor Front-end com mais de 2 anos de experiência e foco em ReactJS e Next.js.
+Construo aplicações web rápidas, acessíveis e escaláveis, com atenção total à arquitetura limpa, manutenibilidade e experiência do usuário.
 
-Ao longo da minha jornada, desenvolvi uma sólida expertise em usabilidade e design, sempre buscando a excelência em cada projeto que me envolvo. Para saber mais sobre minha trajetória e experiência, convido você a explorar meu site pessoal. Estou aberto a novas oportunidades e desafios que possam impulsionar meu crescimento e contribuir para o sucesso dos projetos em que estou envolvido. Vamos juntos em direção ao sucesso! 🚀</p>
+Tenho compromisso com o aprendizado contínuo e curto transformar problemas complexos em soluções eficientes e elegantes. Seja começando do zero ou otimizando sistemas existentes, meu objetivo é sempre entregar código de impacto, que une valor para o usuário e para o negócio.
+
+Estou sempre aberto a colaborar com times que valorizam tecnologia, escrever código de qualidade e construir projetos que realmente façam a diferença.
+📩 Bora construir algo grande juntos.
+</p>
 
   </div>
 

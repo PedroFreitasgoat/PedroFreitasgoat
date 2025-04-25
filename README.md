@@ -14,6 +14,24 @@ Tenho compromisso com o aprendizado contínuo e curto transformar problemas comp
 
 Estou sempre aberto a colaborar com times que valorizam tecnologia, escrever código de qualidade e construir projetos que realmente façam a diferença.
 📩 Bora construir algo grande juntos.
+
+
+
+Tecnologias que utilizo com frequência:
+
+ReactJS / Next.js / TypeScript
+
+TailwindCSS / Styled-Components / ChakraUI
+
+Jotai / Context API / Zustand
+
+Contentful / Sanity.io / Prismic / Hygraph (GraphCMS)
+
+CSS Modules / SASS / PostCSS
+
+Jest / React Testing Library / Cypress
+
+Git / GitHub / Vite / Webpack
 </p>
 
   </div>

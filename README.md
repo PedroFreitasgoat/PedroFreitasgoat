@@ -7,7 +7,7 @@
   
 <div align="initial">  
   <p>
-Olá, sou o Pedro — Desenvolvedor Front-end com mais de 2 anos de experiência e foco em ReactJS e Next.js.
+Olá, sou o Pedro — Desenvolvedor Front-end com foco em ReactJS e Next.js.
 Construo aplicações web rápidas, acessíveis e escaláveis, com atenção total à arquitetura limpa, manutenibilidade e experiência do usuário.
 
 Tenho compromisso com o aprendizado contínuo e curto transformar problemas complexos em soluções eficientes e elegantes. Seja começando do zero ou otimizando sistemas existentes, meu objetivo é sempre entregar código de impacto, que une valor para o usuário e para o negócio.
@@ -24,11 +24,11 @@ ReactJS / Next.js / TypeScript
 
 TailwindCSS / Styled-Components / 
 
-Jotai / Context API / Zustand
+Context API 
 
 CSS Modules / SASS / PostCSS
 
-Git / GitHub / Vite / Webpack
+Git / GitHub / Vite /
 </p>
 
   </div>
